@@ -17,4 +17,6 @@ Format: [Keep a Changelog](https://keepachangelog.com).
 - 100% on-device processing — no photos are ever uploaded.
 
 ### Play submission
-- Initial closed-testing submission.
+- Submitted 2026-07-06 for review + closed testing (track "Closed testing - Alpha", release 1 (1.0.0)).
+- Testers: "All Testers" email list (19 users). Countries: Singapore.
+- Store listing, all App content declarations, and Store settings (Photography, contact email) completed.
