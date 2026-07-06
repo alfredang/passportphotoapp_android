@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Head-and-shoulders silhouette inside a rounded photo frame. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- Photo frame -->
+        <path
+            android:pathData="M34,30 h40 a4,4 0 0 1 4,4 v44 a4,4 0 0 1 -4,4 h-40 a4,4 0 0 1 -4,-4 v-44 a4,4 0 0 1 4,-4 z"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:fillColor="#00000000" />
+        <!-- Head -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,42 m-9,0 a9,9 0 1 1 18,0 a9,9 0 1 1 -18,0" />
+        <!-- Shoulders -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M38,78 C38,64 46,58 54,58 C62,58 70,64 70,78 Z" />
+    </group>
+</vector>
