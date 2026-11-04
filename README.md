@@ -7,6 +7,9 @@
 ![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![ML Kit](https://img.shields.io/badge/Google-ML%20Kit-EA4335?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it%20now-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.passportphotoapp)
+
+**[Get Tertiary Passport Photo on Google Play →](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.passportphotoapp)** · package `com.tertiaryinfotech.passportphotoapp`
 
 The Android sibling of the iOS app [Tertiary Passport Photo](https://apps.apple.com/us/app/tertiary-passport-photo/id6782430909) — same features, built natively with Kotlin, Jetpack Compose, and Google ML Kit.
 

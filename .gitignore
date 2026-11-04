@@ -14,3 +14,12 @@
 *.keystore
 keystore.properties
 release/
+
+# Secrets, archives and source material — never pushed
+.env
+.env.*
+!*.example
+# Distribution archives (rebuildable — never pushed to GitHub)
+*.zip
+# Source material the project was derived from — not ours to republish.
+**/reference/
